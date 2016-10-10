@@ -247,7 +247,7 @@ position: fixed;
   transition: all 0.4s ease; 
 }
 header.sticky, header.sticky#contacts{ 
-	background-color:#080808; 
+	background-color:#333232; 
 	opacity:1;
 }
 header#contacts{
